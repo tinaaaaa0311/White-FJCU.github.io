@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -132,7 +132,7 @@ h1::after {
 </head>
 
 <body>
-  <h1>FJCU-WHITE BOOK</h1>
+  
   <div class="button-container">
     <span id="toggleButton" class="coral-button" onclick="toggleContent('content1')">輔大美食</span>
     <span class="yellow-button" onclick="toggleContent('content2')">輔大佈景象簿</span>
